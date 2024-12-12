@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myrepo/static/css/main.1e3caaa5.css",
-    "main.js": "/myrepo/static/js/main.19e3465c.js",
+    "main.js": "/myrepo/static/js/main.4600f72b.js",
     "static/css/64.bba8fa55.chunk.css": "/myrepo/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/myrepo/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/myrepo/static/css/769.b3cbb36b.chunk.css",
@@ -31,7 +31,7 @@
     "static/media/skill.svg": "/myrepo/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/myrepo/index.html",
     "main.1e3caaa5.css.map": "/myrepo/static/css/main.1e3caaa5.css.map",
-    "main.19e3465c.js.map": "/myrepo/static/js/main.19e3465c.js.map",
+    "main.4600f72b.js.map": "/myrepo/static/js/main.4600f72b.js.map",
     "64.bba8fa55.chunk.css.map": "/myrepo/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/myrepo/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/myrepo/static/css/769.b3cbb36b.chunk.css.map",
@@ -39,6 +39,6 @@
   },
   "entrypoints": [
     "static/css/main.1e3caaa5.css",
-    "static/js/main.19e3465c.js"
+    "static/js/main.4600f72b.js"
   ]
 }
