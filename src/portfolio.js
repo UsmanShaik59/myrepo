@@ -156,8 +156,7 @@ const educationInfo = {
       logo: require("./assets/images/gv.png"),
       subHeader: "6th Class - 10 Class",
       duration: "2015-2019",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ..."
-      // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+    desc: "Completed 10th-grade education with a perfect score of 10 points"
     },
     {
       schoolName: "Rajiv Gandhi University of Knowledge Technologies",
@@ -194,14 +193,14 @@ const techStack = {
     },
     {
       Stack: "Backend",
-      progressPercentage: "70%"
+      progressPercentage: "90%"
     },
     {
       Stack: "Programming",
-      progressPercentage: "60%"
+      progressPercentage: "95%"
     }
   ],
-  displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
+  displayCodersrank: true // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
 
 // Work experience section
